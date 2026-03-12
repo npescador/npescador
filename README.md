@@ -49,6 +49,5 @@ I am particularly interested in:
 
 ---
 
-## Connect with me
-
-- LinkedIn: https://linkedin.com/in/npescador
+## Connect with me in:
+[LinkedIn](https://www.linkedin.com/in/ignacio-pescador-ruiz-3892a8a7/)
