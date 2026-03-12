@@ -1,37 +1,54 @@
 # Nacho Pescador
 
-Mobile engineer focused on building high-quality products in the Apple ecosystem.
+Senior iOS Engineer focused on building scalable, maintainable products in the Apple ecosystem.
 
-My work is driven by professionalism, consistency and attention to detail. I care about creating reliable, maintainable and well-crafted software, with a strong preference for modern native development and a real interest in how AI is transforming products, workflows and engineering.
+My work combines modern native development with strong engineering practices, thoughtful architecture, and an increasing focus on AI-augmented development workflows.
+
+---
 
 ## About me
 
-I am a mobile developer with a strong focus on the Apple ecosystem and modern application architecture. I enjoy working on products that aim for quality, long-term maintainability and thoughtful execution.
+I am a mobile engineer specializing in the Apple ecosystem, particularly in modern iOS development with Swift and SwiftUI.
 
-I value doing things properly: clean code, clear structure, good collaboration and a serious approach to product development. At the same time, I try to stay close to what is changing in the industry, especially around AI and its impact on mobile experiences and developer tooling.
+I enjoy working on products that prioritize quality, clear architecture and long-term sustainability. I value clean code, well-structured systems and engineering practices that allow teams to move fast without sacrificing reliability.
+
+In recent years I have been exploring how AI is transforming software development — not as a shortcut, but as a structured thinking partner to improve planning, code quality and engineering workflows.
+
+---
 
 ## Current focus
 
 - Swift and SwiftUI
 - Native iOS development
-- Application architecture and code quality
-- Performance, maintainability and product reliability
-- AI applied to digital products and engineering workflows
+- Clean Architecture and modular design
+- Performance and maintainability
+- AI-augmented development workflows
 
-## What defines my work
+---
 
-- Strong commitment and ownership
-- Professionalism and consistency
-- Serious approach to engineering quality
-- Easy collaboration and good communication
-- Interest in continuous improvement and modern technologies
+## Engineering mindset
 
-## What I am looking for
+What defines the way I work:
 
-I am especially interested in long-term opportunities where I can contribute to ambitious products built with modern Apple technologies, in teams that value quality, clarity and strong engineering standards.
+- System thinking over feature thinking
+- Clean, understandable architectures
+- Incremental and regression-safe development
+- Long-term maintainability
+- Continuous improvement and curiosity
 
-I am also interested in environments where AI is already part of the product vision, the technical roadmap or the way teams build software.
+---
+
+## Interests
+
+I am particularly interested in:
+
+- Modern Apple ecosystem development
+- Scalable mobile architectures
+- Developer productivity and engineering workflows
+- AI applied to digital products and software development
+
+---
 
 ## Connect with me
 
-- [LinkedIn](https://linkedin.com/in/npescador)
+- LinkedIn: https://linkedin.com/in/npescador
