@@ -1,17 +1,37 @@
-# 💫 About Me:
-👋 Hello everybody, I'm Nacho Pescador<br>🔭 I’m currently working on hiberus<br>👯 I’m looking to collaborate on mobile app proyects (Android, iOS, Flutter)<br>🌱 I am currently still learning Kotlin with classic views and Jetpack Compose, Swif and SwiftUI and Flutter.<br>
+# Nacho Pescador
 
+Mobile engineer focused on building high-quality products in the Apple ecosystem.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/npescador) 
+My work is driven by professionalism, consistency and attention to detail. I care about creating reliable, maintainable and well-crafted software, with a strong preference for modern native development and a real interest in how AI is transforming products, workflows and engineering.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=npescador&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=npescador&theme=vue-dark&hide_border=false)
+## About me
 
----
-[![](https://visitcount.itsvg.in/api?id=npescador&icon=2&color=9)](https://visitcount.itsvg.in)
+I am a mobile developer with a strong focus on the Apple ecosystem and modern application architecture. I enjoy working on products that aim for quality, long-term maintainability and thoughtful execution.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I value doing things properly: clean code, clear structure, good collaboration and a serious approach to product development. At the same time, I try to stay close to what is changing in the industry, especially around AI and its impact on mobile experiences and developer tooling.
+
+## Current focus
+
+- Swift and SwiftUI
+- Native iOS development
+- Application architecture and code quality
+- Performance, maintainability and product reliability
+- AI applied to digital products and engineering workflows
+
+## What defines my work
+
+- Strong commitment and ownership
+- Professionalism and consistency
+- Serious approach to engineering quality
+- Easy collaboration and good communication
+- Interest in continuous improvement and modern technologies
+
+## What I am looking for
+
+I am especially interested in long-term opportunities where I can contribute to ambitious products built with modern Apple technologies, in teams that value quality, clarity and strong engineering standards.
+
+I am also interested in environments where AI is already part of the product vision, the technical roadmap or the way teams build software.
+
+## Connect with me
+
+- [LinkedIn](https://linkedin.com/in/npescador)
